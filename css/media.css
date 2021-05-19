@@ -1,0 +1,554 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+ @media (max-width: 575.98px) {
+    /* header start  */
+
+    /* menu */
+    .logo {
+       width: 85%;
+   }
+
+    .menu ul li a {
+        font-family: 'PT Sans';
+        font-size: 22px;
+        text-align: right;
+        padding: 0 0px !important;
+    }
+
+    /* header end */
+    /* bannner start */
+    .feature {
+        padding: 100px 0;
+    }
+
+    .c_title {
+        text-align: center;
+
+    }
+
+    .c_h1 {
+        font-size: 32px;
+        font-weight: 400;
+        margin-bottom: 15px !important;
+        color: black;
+    }
+
+    .c_p {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 25px;
+        word-spacing: 7px;
+        color: black;
+        letter-spacing: 1px;
+    }
+    .s_text {
+        margin-top: 18%;
+        margin-left: 22px;
+    }
+
+    .s_text h1 {
+        font-size: 26px;
+        font-weight: 700;
+    }
+
+    .s_text h3 {
+        font-size: 16px;
+        margin: 5% 0;
+    }
+
+    .s_text p {
+        font-size: 12px;
+        margin-bottom: 35px;
+    }
+
+    .s_text ul li i {
+        font-size: 29px;
+        margin-right: 11px;
+    }
+
+    .s_img .ipad {
+        width: 80%;
+        display: none;
+    }
+
+    .caro_s1 {
+
+        top: 101%;
+
+    }
+
+    .caro_s1 [data-bs-target] {
+        width: 13px;
+        height: 13px;
+        border-radius: 50%;
+        background-color: blue;
+    }
+
+    /* banner end */
+
+
+
+    /* 2nd row */
+    .single {
+        margin-top: 20%;
+        text-align: center;
+    }
+
+    .si_icon {
+
+        text-align: left;
+
+        margin-bottom: 31px;
+
+        text-align: center;
+    }
+
+    .si_icon i {
+
+        font-size: 42px;
+    }
+
+    .si_text {}
+
+    .si_text h2 {
+
+        font-size: 25px;
+
+        margin-bottom: 15px;
+
+        font-weight: 400;
+
+        color: black;
+    }
+
+    .si_text p {
+
+        font-size: 14px;
+
+        line-height: 1.4;
+
+        word-spacing: 6px;
+
+        font-weight: 400;
+    }
+
+
+    /* feature end */
+    /* contact start  */
+    .contact {
+        background-color: #010101;
+    }
+
+    .c_yellow {
+        font-size: 32px;
+        font-weight: 700;
+        color: #FCDB00;
+    }
+
+    .c_ash {
+        font-size: 13px;
+        color: #898989;
+        word-spacing: 2px;
+    }
+
+    /* social link  */
+    .social_link {
+
+        text-align: center;
+
+        margin-top: 70px;
+
+    }
+
+    .social_link ul li a {
+
+        text-decoration: none;
+
+        font-size: 33px;
+    }
+
+    .social_link ul li a i {
+        background-color: #FCDB00;
+        color: black;
+        border-radius: 19%;
+        padding: 2px 4px;
+        margin: 0px 9px;
+    }
+
+
+    /* contact end */
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /* header start */
+
+    /* menu */
+    .logo {
+        width: 85%;
+    }
+
+    .menu ul li a {
+        font-family: 'PT Sans';
+        font-size: 22px;
+        text-align: right;
+        padding: 0 0px !important;
+    }
+
+    /* header end */
+    /* bannner start */
+    .feature {
+        padding: 100px 0;
+    }
+
+    .c_title {
+        text-align: center;
+    }
+
+    .c_h1 {
+        font-size: 32px;
+        font-weight: 400;
+        margin-bottom: 15px !important;
+        color: black;
+    }
+
+    .c_p {
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 25px;
+        word-spacing: 7px;
+        color: black;
+        letter-spacing: 1px;
+
+    }
+
+    .s_text h1 {
+        font-size: 19px;
+    }
+
+    .s_text h3 {
+        font-size: 14px;
+        margin: 7% 0;
+    }
+
+    .s_text p {
+        font-size: 11px;
+        margin-bottom: 25px;
+    }
+
+    .s_text ul li i {
+        font-size: 20px;
+        margin-right: 6px;
+    }
+
+    .s_img .ipad {
+        width: 89%;
+    }
+
+    .caro_s1 {
+
+        top: 108%;
+
+    }
+
+    .caro_s1 [data-bs-target] {
+        width: 9px;
+        height: 9px;
+    }
+
+    /* banner end */
+    .feature {
+        padding: 100px 0;
+    }
+
+    .c_title {
+        text-align: center;
+
+    }
+
+    .c_h1 {
+        font-size: 29px;
+        font-weight: 400;
+        margin-bottom: 15px !important;
+        color: black;
+    }
+
+    .c_p {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 25px;
+        word-spacing: 7px;
+        color: black;
+        letter-spacing: 1px;
+    }
+
+    /* 2nd row */
+    .single {
+        margin-top: 20%;
+    }
+
+    .si_icon {
+
+        text-align: left;
+
+        margin-bottom: 31px;
+    }
+
+    .si_icon i {
+
+        font-size: 42px;
+    }
+
+    .si_text {}
+
+    .si_text h2 {
+
+        font-size: 27px;
+
+        margin-bottom: 15px;
+
+        font-weight: 400;
+
+        color: black;
+    }
+
+    .si_text p {
+
+        font-size: 16px;
+
+        line-height: 1.4;
+
+        word-spacing: 6px;
+
+        font-weight: 400;
+    }
+
+
+    /* feature end */
+    /* contact start  */
+    .contact {
+        background-color: #010101;
+    }
+
+    .c_yellow {
+        font-size: 32px;
+        font-weight: 700;
+        color: #FCDB00;
+    }
+
+    .c_ash {
+        font-size: 13px;
+        color: #898989;
+        word-spacing: 2px;
+    }
+
+    /* social link  */
+    .social_link {
+
+        text-align: center;
+
+        margin-top: 90px;
+
+    }
+
+    .social_link ul li a {
+
+        text-decoration: none;
+
+        font-size: 37px;
+    }
+
+    .social_link ul li a i {
+        background-color: #FCDB00;
+        color: black;
+        border-radius: 19%;
+        padding: 2px 4px;
+        margin: 0px 10px;
+    }
+
+    /* contact end */
+
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /* header start */
+
+    /* menu */
+    .logo {}
+
+    .menu ul li a {
+        font-family: 'PT Sans';
+        font-size: 22px;
+        text-align: right;
+        padding: 0 0px !important;
+    }
+
+    /* header end */
+    /* bannner start */
+    .feature {
+        padding: 100px 0;
+    }
+
+    .c_title {
+        text-align: center;
+
+    }
+
+    .c_h1 {
+        font-size: 32px;
+        font-weight: 400;
+        margin-bottom: 15px !important;
+        color: black;
+    }
+
+    .c_p {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 25px;
+        word-spacing: 7px;
+        color: black;
+        letter-spacing: 1px;
+    }
+
+    .s_text h1 {
+        font-size: 26px;
+        font-weight: 700;
+    }
+
+    .s_text h3 {
+        font-size: 16px;
+        margin: 5% 0;
+    }
+
+    .s_text p {
+        font-size: 11px;
+        margin-bottom: 32px;
+    }
+
+    .s_text ul li i {
+        font-size: 29px;
+        margin-right: 11px;
+    }
+
+    .s_img .ipad {
+        width: 80%;
+    }
+
+    .caro_s1 {
+
+        top: 111%;
+
+    }
+
+    .caro_s1 [data-bs-target] {
+        width: 13px;
+        height: 13px;
+        border-radius: 50%;
+        background-color: blue;
+    }
+
+    /* banner end */
+
+
+
+    /* 2nd row */
+    .single {
+        margin-top: 20%;
+    }
+
+    .si_icon {
+
+        text-align: left;
+
+        margin-bottom: 31px;
+    }
+
+    .si_icon i {
+
+        font-size: 42px;
+    }
+
+    .si_text {}
+
+    .si_text h2 {
+
+        font-size: 27px;
+
+        margin-bottom: 15px;
+
+        font-weight: 400;
+
+        color: black;
+    }
+
+    .si_text p {
+
+        font-size: 16px;
+
+        line-height: 1.4;
+
+        word-spacing: 6px;
+
+        font-weight: 400;
+    }
+
+
+    /* feature end */
+
+    /* contact start  */
+    .contact {
+        background-color: #010101;
+    }
+
+    .c_yellow {
+        font-size: 32px;
+        font-weight: 700;
+        color: #FCDB00;
+    }
+
+    .c_ash {
+        font-size: 16px;
+        color: #898989;
+    }
+
+    /* social link  */
+    .social_link {
+
+        text-align: center;
+
+        margin-top: 100px;
+    }
+
+    .social_link ul li a {
+
+        text-decoration: none;
+
+        font-size: 44px;
+
+        height: 20px;
+    }
+
+    .social_link ul li a i {
+        background-color: #FCDB00;
+        color: black;
+        border-radius: 19%;
+        padding: 2px 4px;
+        margin: 0px 15px;
+    }
+
+
+    /* contact end */
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {}
+
+/* Extra large devices (Extra large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {}
+
+/* Extra Extra large devices (Extra Extra large desktops, 1200px and up) */
+@media (min-width: 1400px) and (max-width: 1599.98px) {}
